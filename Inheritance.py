@@ -44,7 +44,3 @@ business.receive_money( 51 )
 
 
 
-
-
-
-
